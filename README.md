@@ -1,4 +1,8 @@
-Assessment Tasks:
+Project Name:
+
+React_Login_dashboard
+
+Description:
  
 1. Login Page:
  
@@ -16,3 +20,11 @@ Assessment Tasks:
 3. Search Page:
  
 ◦ Implement a search input that filters mock data.
+
+Install Dependencies:
+
+npx create-react-app (app_name)
+
+npm install react-router-dom
+
+npm start
